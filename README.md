@@ -3,7 +3,7 @@
     apt-get update -y && apt-get install git -y
 ### Steps
 #### Clone this repository :
-    git clone https://github.com/CryptoNodeID/pingpong.git
+    git clone https://github.com/OneNov0209/pingpong.git
 #### run setup command : 
     cd pingpong && chmod ug+x *.sh && ./setup.sh
 #### follow the instruction and then run below command to start the node :
